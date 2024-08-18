@@ -3,19 +3,17 @@ import random
 import time
 from pygame.locals import *
 
-
-
+# Initialize pygame
 pygame.init()
 pygame.display.set_caption("Pac-Man")
 
 '''
 
 pygame.init()
-
 pygame./'''
 
 
-# Set screen dimensions00K505
+# Set screen dimensions
 screen_width = 900
 screen_height = 700
 screen = pygame.display.set_mode([screen_width, screen_height])
